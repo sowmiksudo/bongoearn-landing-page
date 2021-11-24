@@ -6,7 +6,7 @@ window.addEventListener("scroll", () => {
     document.getElementById("back-to-top").classList.add("active");
   }
 
-  document.getElementById("copyright").innerText = "BongoEarn"
-  document.getElementById("copyright").href = "https://t.me/BongoEarn"
+  document.getElementById("copyright").innerText = "Shayer Mahmud Sowmik"
+  document.getElementById("copyright").href = "https://fb.me/ffsowmik"
 
 });
